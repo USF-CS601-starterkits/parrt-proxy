@@ -1,3 +1,4 @@
+package cs601.proxy;
 public class ProxyServer {
 	public static final boolean SingleThreaded = false;
 
